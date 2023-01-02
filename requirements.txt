@@ -1,1 +1,3 @@
-pytest>=2.8.6
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2cebb22514f3c41465f3b2bd800b266abf1997983cfb0b3dfceff945caba3e6
+size 14
